@@ -1,0 +1,15 @@
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\bin\Debug\net7.0\Funcionarios.exe
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\bin\Debug\net7.0\Funcionarios.deps.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\bin\Debug\net7.0\Funcionarios.runtimeconfig.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\bin\Debug\net7.0\Funcionarios.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\bin\Debug\net7.0\Funcionarios.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.csproj.AssemblyReference.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfoInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.AssemblyInfo.cs
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\refint\Funcionarios.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\Funcionarios.genruntimeconfig.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Funcionarios\obj\Debug\net7.0\ref\Funcionarios.dll

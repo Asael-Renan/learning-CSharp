@@ -1,0 +1,15 @@
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\bin\Debug\net7.0\Inheritance3.exe
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\bin\Debug\net7.0\Inheritance3.deps.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\bin\Debug\net7.0\Inheritance3.runtimeconfig.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\bin\Debug\net7.0\Inheritance3.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\bin\Debug\net7.0\Inheritance3.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.csproj.AssemblyReference.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.AssemblyInfoInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.AssemblyInfo.cs
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.csproj.CoreCompileInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\refint\Inheritance3.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\Inheritance3.genruntimeconfig.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\inheritance3\obj\Debug\net7.0\ref\Inheritance3.dll

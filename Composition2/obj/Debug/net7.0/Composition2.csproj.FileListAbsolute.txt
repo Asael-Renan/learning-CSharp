@@ -1,0 +1,15 @@
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\bin\Debug\net7.0\Composition2.exe
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\bin\Debug\net7.0\Composition2.deps.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\bin\Debug\net7.0\Composition2.runtimeconfig.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\bin\Debug\net7.0\Composition2.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\bin\Debug\net7.0\Composition2.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.csproj.AssemblyReference.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.AssemblyInfoInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.AssemblyInfo.cs
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.csproj.CoreCompileInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\refint\Composition2.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\Composition2.genruntimeconfig.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Composition2\obj\Debug\net7.0\ref\Composition2.dll

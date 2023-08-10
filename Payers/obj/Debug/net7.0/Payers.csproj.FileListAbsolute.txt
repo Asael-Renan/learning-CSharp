@@ -1,0 +1,15 @@
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\bin\Debug\net7.0\Payers.exe
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\bin\Debug\net7.0\Payers.deps.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\bin\Debug\net7.0\Payers.runtimeconfig.json
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\bin\Debug\net7.0\Payers.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\bin\Debug\net7.0\Payers.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.csproj.AssemblyReference.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.AssemblyInfoInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.AssemblyInfo.cs
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.csproj.CoreCompileInputs.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\refint\Payers.dll
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.pdb
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\Payers.genruntimeconfig.cache
+C:\Users\asael\OneDrive\Área de Trabalho\C#\Payers\obj\Debug\net7.0\ref\Payers.dll
