@@ -1,0 +1,15 @@
+E:\learning-CSharp\Chess\bin\Debug\net8.0\Chess.exe
+E:\learning-CSharp\Chess\bin\Debug\net8.0\Chess.deps.json
+E:\learning-CSharp\Chess\bin\Debug\net8.0\Chess.runtimeconfig.json
+E:\learning-CSharp\Chess\bin\Debug\net8.0\Chess.dll
+E:\learning-CSharp\Chess\bin\Debug\net8.0\Chess.pdb
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.AssemblyInfoInputs.cache
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.AssemblyInfo.cs
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.csproj.CoreCompileInputs.cache
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.sourcelink.json
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.dll
+E:\learning-CSharp\Chess\obj\Debug\net8.0\refint\Chess.dll
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.pdb
+E:\learning-CSharp\Chess\obj\Debug\net8.0\Chess.genruntimeconfig.cache
+E:\learning-CSharp\Chess\obj\Debug\net8.0\ref\Chess.dll
