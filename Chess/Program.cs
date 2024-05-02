@@ -9,20 +9,22 @@ namespace Chess
         {
             try
             {
-                
-                ChessPosition chessPosition= new('c', 7);
-                Console.WriteLine(chessPosition.ToPosition());
-                
 
-                Board board = new(8, 8);
+                ChessMatch match = new();
 
-                board.AddPiece(new Tower(board, Color.Black), new Position(0, 1));
-                board.AddPiece(new Tower(board, Color.Black), new Position(0, 6));
+                while (!match.Finished)
+                {
+                    Console.Clear();
+                    Screen.PrintBoard(match.BoardMatch);
 
-                board.AddPiece(new Tower(board, Color.White), new Position(7, 1));
-                board.AddPiece(new Tower(board, Color.White), new Position(7, 6));
+                    Console.WriteLine();
+                    Console.Write("Origem: ");
+                    Position Origin = Screen.ReadChessPosition().ToPosition();
+                    Console.Write("Destino: ");
+                    Position Destiny = Screen.ReadChessPosition().ToPosition();
 
-                Screen.PrintBoard(board);
+                    match.MakeMoviment(Origin, Destiny);
+                }
             }
             catch (BoardException error)
             {
